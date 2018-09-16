@@ -25,4 +25,4 @@ enPiT事業部<br>
 HP:()<br>
 e-mail()<br>
 tell()<br>
-<p><a href = "./">ページの上へ</a></p>
+<p><a href = "https://16-2505-0468.github.io/w046ff/toiawase.html">ページの上へ</a></p>
