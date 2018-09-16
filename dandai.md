@@ -12,7 +12,7 @@
 </table><br>
 # [連絡先]<br>
 e-mail:××@gmail.com<br>
-TEL:××-○○○-△△<br><br>
+TELL:××-○○○-△△<br><br>
 
 # 団体情報(仮想です)<br>
 このYORICAは法人団体enPiTの地域活性事業の一環として、  
