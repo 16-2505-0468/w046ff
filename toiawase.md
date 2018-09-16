@@ -10,7 +10,7 @@
   <td><a href = "hoby.html">問合わせ</a><br></td>
 </tr>
 </table><br>
-#問い合わせ先<br>
+# 問い合わせ先<br>
 △△自治体<br>
 HP:(リンクーーーー）<br>
 e-mail:()<br>
